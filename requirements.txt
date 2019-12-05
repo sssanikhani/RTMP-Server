@@ -1,4 +1,4 @@
-Django==2.2.5
+Django==2.2.8
 hs-infra==0.0.9
 python-dateutil==2.8.0
 pytz==2019.2
