@@ -2,5 +2,5 @@ hs-infra==0.0.9
 python-dateutil==2.8.0
 pytz==2019.2
 six==1.12.0
-sqlparse==0.3.0
+sqlparse==0.4.4
 subprocess.run==0.0.8
